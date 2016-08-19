@@ -1,0 +1,30 @@
+<!--H5推荐规范页面-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>标准H5页面实列</title>
+</head>
+
+<body>
+	<header>
+		<nav></nav>
+	</header>
+	<section></section>
+	<section></section>
+	.........
+	<footer></footer>
+</body>
+
+</html>
+<!--H5推荐规范页面-->
+
+
+Web页面字体使用注意事项:
+
+1.每行字数最好保持在35~40个字之间. 
+
+2.英文字体推荐首选sans-self,中文字体推荐黑体. 
+
+3.行间距最好为1.5(默认字体大小的1.5倍).
